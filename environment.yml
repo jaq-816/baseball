@@ -1,0 +1,13 @@
+name: baseball-py
+dependencies:
+    - jupyter
+    - jupyterlab
+    - ipykernel
+    - numpy
+    - pandas
+    - pytorch
+    - scipy
+    - matplotlib
+    - pip
+    - pip:
+        - import-ipynb
